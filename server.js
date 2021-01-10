@@ -5,7 +5,7 @@ const formatMessage = require('./utils/messages');
 const { userJoin, getCurrentUser, userLeave, getRoomUsers } = require('./utils/users');
 
 //settings
-app.set('port', 3000);
+app.set('port', process.env.PORT || 3000);
 
 //static files
 app.use(express.static(path.join(__dirname, 'public')));
