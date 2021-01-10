@@ -1,0 +1,33 @@
+{
+  "name": "madez-chat",
+  "version": "1.0.0",
+  "description": "Real time chat test",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madez17/chat-tecnical-test.git"
+  },
+  "keywords": [
+    "chat",
+    "javascript",
+    "express",
+    "socket-io"
+  ],
+  "author": "María Fernanda Méndez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Madez17/chat-tecnical-test/issues"
+  },
+  "homepage": "https://github.com/Madez17/chat-tecnical-test#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
