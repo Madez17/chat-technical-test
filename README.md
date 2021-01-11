@@ -1,6 +1,7 @@
 # Red Valley-chat Tecnical-test
 
-![Imgur](https://i.imgur.com/H62D1iX.png)
+![Imgur](https://i.imgur.com/6axCIEu.png)
+![Imgur](https://i.imgur.com/AEw5mzX.png)
 
 ---
 
@@ -21,7 +22,7 @@
 ## Para correr este proyecto:
 
         - npm install
-        - npm star o npm run dev
+        - npm start o npm run dev
 ---
 
 ## Author
